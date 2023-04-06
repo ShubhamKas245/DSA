@@ -1,2 +1,2 @@
 # DSA
-solving problem basic to advanced
+solving basic to advanced DSA Problem
