@@ -1,7 +1,8 @@
-// # Interview Ques => Google
+// # Interview Ques => Google,Microsoft
 
 // Array size N. all the element are equal to zero
 // q quries => add value to all elements from index to n-1
+// Return the final state of the array
 
 #include <iostream>
 #include <bits/stdc++.h>
